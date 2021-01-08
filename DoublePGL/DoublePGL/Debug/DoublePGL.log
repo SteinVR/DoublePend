@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(5,121): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(6,61): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(16,22): warning C4244: /=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(71,38): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(73,38): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(95,29): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(99,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  DoublePGL.vcxproj -> C:\Users\sasha\source\repos\DoublePGL\Debug\DoublePGL.exe

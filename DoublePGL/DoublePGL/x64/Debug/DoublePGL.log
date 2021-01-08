@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(79,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(79,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(80,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(80,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(87,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(87,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(88,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(88,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(163,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\DoublePGL\DoublePGL\Main.cpp(163,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  DoublePGL.vcxproj -> C:\Users\sasha\source\repos\DoublePGL\x64\Debug\DoublePGL.exe
